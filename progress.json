@@ -1,0 +1,75 @@
+{
+  "lastUpdated": "2025-12-06T00:00:00Z",
+  "screens": {
+    "auth.login": {
+      "status": "done",
+      "owner": null,
+      "notes": "src/screens/Auth/LoginScreen.tsx"
+    },
+    "auth.otp": {
+      "status": "not_started",
+      "owner": null,
+      "notes": ""
+    },
+    "onboarding": {
+      "status": "not_started",
+      "owner": null,
+      "notes": ""
+    },
+    "dashboard": {
+      "status": "done",
+      "owner": null,
+      "notes": "src/screens/Dashboard/DashboardScreen.tsx"
+    },
+    "members.list": {
+      "status": "done",
+      "owner": null,
+      "notes": "src/screens/Members/MembersListScreen.tsx"
+    },
+    "member.profile": {
+      "status": "not_started",
+      "owner": null,
+      "notes": ""
+    },
+    "member.edit": {
+      "status": "not_started",
+      "owner": null,
+      "notes": ""
+    },
+    "attendance.scan": {
+      "status": "done",
+      "owner": null,
+      "notes": "app/(tabs)/attendance.tsx - enhanced with real-time list and QR button"
+    },
+    "attendance.calendar": {
+      "status": "done",
+      "owner": null,
+      "notes": "app/(tabs)/attendance.tsx - today's attendance count in header"
+    },
+    "payments.history": {
+      "status": "done",
+      "owner": null,
+      "notes": "app/(tabs)/payments.tsx - payment list with member names and revenue totals"
+    },
+    "payments.add": {
+      "status": "not_started",
+      "owner": null,
+      "notes": ""
+    },
+    "trainers.list": {
+      "status": "not_started",
+      "owner": null,
+      "notes": ""
+    },
+    "notifications": {
+      "status": "not_started",
+      "owner": null,
+      "notes": ""
+    },
+    "settings": {
+      "status": "done",
+      "owner": null,
+      "notes": "app/(tabs)/settings.tsx"
+    }
+  }
+}
